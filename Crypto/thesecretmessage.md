@@ -1,17 +1,3 @@
----
-title: OSCTF 2024 The Secret Message cryptography challenge writeup
-author: yanganyi
-pubDatetime: 2024-07-14T17:29:00+08:00
-slug: osctf-2024-thesecretmessage
-featured: true
-draft: false
-tags:
-  - crypto
-  - ctf
-description: Writeup for a RSA challenge (crypto) in OSCTF 2024
----
-
-
 ## Solution
 
 We notice that e = 3. Hence we just need to cube root it.

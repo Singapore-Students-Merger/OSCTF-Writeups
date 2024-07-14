@@ -1,17 +1,3 @@
----
-title: OSCTF 2024 Couple Primes cryptography challenge writeup
-author: yanganyi
-pubDatetime: 2024-07-14T17:33:00+08:00
-slug: osctf-2024-coupleprimes
-featured: true
-draft: false
-tags:
-  - crypto
-  - ctf
-description: Writeup for a RSA challenge (crypto) in OSCTF 2024
----
-
-
 ## Solution
 
 Very basic RSA, solve script below
