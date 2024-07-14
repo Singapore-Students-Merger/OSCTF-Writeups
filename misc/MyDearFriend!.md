@@ -17,9 +17,14 @@ https://cdn.discordapp.com/attachments/1261592662356660244/1261596204933054515/p
 The final frame being  
 ![image](https://github.com/user-attachments/assets/c890dece-88e8-4d7d-b31c-3382d96fb2e5)  
 `Part 3: N0k0N0k0_`
+
 ### Part 4
+![image](https://github.com/user-attachments/assets/fc0bdcee-59dd-4c72-89bf-789425b8808e)
+
 
 ### Part 5
+![image](https://github.com/user-attachments/assets/28bab180-00e5-4e21-9e15-927e2cda22e3)
+
 
 ### Final collation
 ```
