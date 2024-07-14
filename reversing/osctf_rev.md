@@ -47,7 +47,7 @@ Author: @5h1kh4r
 
 ### Solution
 
-The exe file looks like a Python compiled binary. We run (pyinstxtractor)[https://github.com/extremecoders-re/pyinstxtractor] to decompile the file. We get `source.pyc`.
+The exe file looks like a Python compiled binary. We run [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) to decompile the file. We get `source.pyc`.
 
 ```sh
 └─$ strings source.pyc | grep OSCTF
