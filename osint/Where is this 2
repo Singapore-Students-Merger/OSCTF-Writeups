@@ -1,0 +1,4 @@
+In the image, we are given a picture of a sign that shows an orange sign which points to the dormitory, as well as some blue elements of the sign in the picture.
+Given no other information, we decided to google: 'Which vietnam university has orange and blue?'
+FPT university is the top result. 'FPT University Ranking & Overview 2024' and it has the signature colours of orange, blue and green.
+After trying a few of the campuses, we found the flag to be OSCTF{fptu_danang}
