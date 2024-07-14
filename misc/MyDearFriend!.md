@@ -6,6 +6,7 @@ Please join here to chat with your dear friend! https://discord.gg/HYE8cWeccu
 ### Part 1
 
 ### Part 2
+By keying in $msg $secret, you obtain
 Your dear friend don't have any `[text](https://part2.Sh1k4N0k0_)` secret for you to show off!
 
 ### Part 3
