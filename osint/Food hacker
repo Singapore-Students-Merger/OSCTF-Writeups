@@ -1,0 +1,10 @@
+This was the instagram page given to us: https://www.instagram.com/kavitakatadka/
+Scrolling around the instagram page, we found random youtube links which directed to their youtube channel.
+https://youtu.be/iLC1iiQHrvE?si=HCeOTxTNRMnlLjEh, @Kavita Ka Tadka
+Now we have reached the last step of the challenge, where we have to look for videos where a cake was made.
+We digged around for such videos and eventually came across this video: https://www.youtube.com/watch?v=OZSAgcBy4Yo&t=5s
+The flag was in their challenge description: 
+
+This choco lava cake can be made at home even with less ingredients. If you liked the video please like and if you really liked it please subscribe.
+
+OSCTF{Pl34s3_L1k3_4nd_Sub5cr1b3!}
