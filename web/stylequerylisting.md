@@ -2,7 +2,7 @@
 
 Style Query Listing -> SQL
 Try something simple like 
-admin' or 1==1 --
+`admin' or 1==1 --`
 
 Site throws exception, which can be used to see source code.
 ```python
